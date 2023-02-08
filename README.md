@@ -26,7 +26,7 @@ Running a web server:
 ```shell
 npm start 
 ```
-Build app on Vue:
+Build app on React:
 ```shell
 npm run build 
 ```
